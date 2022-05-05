@@ -1,0 +1,199 @@
+posterior fossa cyst	hsa-mir-379
+nasal regurgitation	hsa-mir-203
+panic attack	hsa-mir-205
+abnormal kinetic perimetry test	hsa-mir-92a
+renal neoplasm	hsa-mir-371
+neck muscle weakness	hsa-mir-373
+diaphyseal sclerosis	hsa-mir-372
+developmental cataract	hsa-mir-377
+platelet anisocytosis	hsa-mir-126
+paroxysmal bursts of laughter	hsa-mir-127
+ph-positive acute lymphoblastic leukemia	hsa-mir-19a
+obesity	hsa-mir-19b
+spondylolisthesis	hsa-mir-29a
+median cleft lip	hsa-mir-181d
+carcinoma	hsa-mir-769
+increased proinsulin:insulin ratio	hsa-mir-181b
+pulmonary artery vasoconstriction	hsa-mir-181c
+calcaneonavicular fusion	hsa-mir-486
+neoplasm of the breast	hsa-mir-484
+genetic anticipation	hsa-mir-214
+decreased amplitude of sensory action potentials	hsa-mir-215
+mitochondrial myopathy	hsa-mir-212
+intellectual disability, severe	hsa-mir-211
+underdeveloped tragus	hsa-mir-367
+hyperactive patellar reflex	hsa-mir-365
+telecanthus	hsa-mir-362
+sclerosis of skull base	hsa-mir-188
+finger agnosia	hsa-mir-218
+proximal tubulopathy	hsa-mir-520d
+distal sensory impairment of all modalities	hsa-mir-7
+breast aplasia	hsa-mir-520f
+atrial septal defect	hsa-mir-299
+vestibular dysfunction	hsa-mir-409
+erythema	hsa-mir-296
+thoracolumbar kyphosis	hsa-mir-197
+volvulus	hsa-mir-204
+localized neuroblastoma	hsa-mir-151
+chromosomal breakage induced by crosslinking agents	hsa-mir-657
+absent fingernail	hsa-mir-654
+progressive spastic quadriplegia	hsa-mir-652
+pelvic bone exostoses	hsa-mir-499
+dilated fourth ventricle	hsa-mir-494
+slow decrease in visual acuity	hsa-mir-495
+nonossified fifth metatarsal	hsa-mir-302d
+exercise-induced muscle stiffness	hsa-mir-302c
+total anomalous pulmonary venous return	hsa-mir-302b
+epispadias	hsa-mir-658
+increased variability in muscle fiber diameter	hsa-mir-103
+abnormal intestine morphology	hsa-mir-525
+full cheeks	hsa-mir-200b
+cervix cancer	hsa-mir-200a
+irregular sclerotic endplates	hsa-mir-433
+palpitations	hsa-mir-183
+dyslexia	hsa-mir-27b
+abnormality of the placenta	hsa-mir-187
+poor gross motor coordination	hsa-mir-30a
+decreased taste sensation	hsa-mir-30c
+hypoplasia of olfactory tract	hsa-mir-30d
+unilateral primary pulmonary dysgenesis	hsa-mir-449a
+hypoplastic scapulae	hsa-mir-383
+lymphangioma	hsa-let-7g
+neoplasm of the adrenal cortex	hsa-mir-18b
+eeg with generalized epileptiform discharges	hsa-mir-18a
+long penis	hsa-mir-99b
+ragged-red muscle fibers	hsa-mir-192
+neoplasm of the anterior pituitary	hsa-mir-15a
+hirsutism	hsa-mir-25
+nephroblastoma	hsa-let-7b
+shagreen patch	hsa-let-7c
+shield chest	hsa-let-7a
+attenuation of retinal blood vessels	hsa-mir-338
+receptive language delay	hsa-mir-337
+hammertoe	hsa-let-7i
+large face	hsa-mir-331
+diminished ability to concentrate	hsa-mir-330
+axial muscle weakness	hsa-mir-196a
+broad eyebrow	hsa-mir-125b
+atelectasis	hsa-mir-497
+horizontal sacrum	hsa-mir-16
+aplasia/hypoplasia of the cerebral white matter	hsa-mir-601
+streak ovary	hsa-mir-302a
+abnormality of calvarial morphology	hsa-mir-602
+focal clonic seizures	hsa-mir-340
+glomerular subendothelial electron-dense deposits	hsa-mir-615
+uncombable hair	hsa-mir-95
+increased circulating igg level	hsa-mir-320
+anterior plagiocephaly	hsa-mir-448
+ulnar bowing	hsa-mir-521
+sclerosis of skull base	hsa-mir-324
+severe hydrops fetalis	hsa-mir-135b
+spinal hemangioblastoma	hsa-mir-520g
+thrombocytosis	hsa-mir-98
+normocytic anemia	hsa-mir-20a
+uterus didelphys	hsa-mir-21
+nonimmune hydrops fetalis	hsa-mir-22
+hypoplastic spinal processes	hsa-mir-612
+hand muscle atrophy	hsa-mir-598
+increased circulating iga level	hsa-mir-611
+triangular shaped middle phalanx of the 2nd finger	hsa-mir-148a
+osteolysis involving tarsal bones	hsa-mir-143
+orthostatic hypotension	hsa-mir-140
+congenital posterior urethral valve	hsa-mir-141
+reduced coagulation factor v activity	hsa-mir-510
+wide nose	hsa-mir-149
+hemimegalencephaly	hsa-mir-223
+snoring	hsa-mir-128b
+desmoid tumors	hsa-mir-454
+jejunal atresia	hsa-mir-34a
+subvalvular aortic stenosis	hsa-mir-34c
+parathormone-independent increased renal tubular calcium reabsorption	hsa-mir-220
+persistence of hemoglobin f	hsa-mir-216a
+arrhinencephaly	hsa-mir-325
+dentinogenesis imperfecta	hsa-mir-27a
+abnormality of the femoral metaphysis	hsa-mir-663
+underdeveloped tragus	hsa-mir-660
+prominent scrotal raphe	hsa-mir-516a
+self-biting	hsa-mir-520h
+abnormality of the tibial metaphysis	hsa-mir-132
+shortened qt interval	hsa-mir-137
+decreased size of nerve terminals	hsa-mir-136
+abnormality of neutrophil morphology	hsa-mir-106a
+beaded ribs	hsa-mir-376b
+carotid artery stenosis	hsa-mir-155
+enlarged pituitary gland	hsa-mir-146b
+abnormal joint morphology	hsa-mir-146a
+hyperlordosis	hsa-mir-600
+carotid artery stenosis	hsa-mir-379
+increased proinsulin:insulin ratio	hsa-mir-379
+atrial septal defect	hsa-mir-203
+thrombocytosis	hsa-mir-203
+arrhinencephaly	hsa-mir-205
+uterus didelphys	hsa-mir-205
+carotid artery stenosis	hsa-mir-92a
+atrial septal defect	hsa-mir-92a
+hand muscle atrophy	hsa-mir-371
+neck muscle weakness	hsa-mir-371
+erythema	hsa-mir-372
+cervix cancer	hsa-mir-372
+neoplasm of the adrenal cortex	hsa-mir-377
+hypoplastic spinal processes	hsa-mir-377
+increased circulating iga level	hsa-mir-126
+spinal hemangioblastoma	hsa-mir-126
+poor gross motor coordination	hsa-mir-19a
+diminished ability to concentrate	hsa-mir-19a
+long penis	hsa-mir-29a
+lymphangioma	hsa-mir-29a
+posterior fossa cyst	hsa-mir-181d
+prominent scrotal raphe	hsa-mir-181d
+increased circulating iga level	hsa-mir-769
+spinal hemangioblastoma	hsa-mir-769
+decreased size of nerve terminals	hsa-mir-181b
+nasal regurgitation	hsa-mir-181b
+atelectasis	hsa-mir-181b
+slow decrease in visual acuity	hsa-mir-486
+subvalvular aortic stenosis	hsa-mir-486
+shortened qt interval	hsa-mir-218
+focal clonic seizures	hsa-mir-218
+horizontal sacrum	hsa-mir-433
+thoracolumbar kyphosis	hsa-mir-433
+jejunal atresia	hsa-mir-30d
+underdeveloped tragus	hsa-mir-30d
+diminished ability to concentrate	hsa-mir-331
+spondylolisthesis	hsa-mir-331
+axial muscle weakness	hsa-mir-520g
+full cheeks	hsa-mir-520g
+eeg with generalized epileptiform discharges	hsa-mir-20a
+renal neoplasm	hsa-mir-20a
+hirsutism	hsa-mir-21
+telecanthus	hsa-mir-21
+chromosomal breakage induced by crosslinking agents	hsa-mir-21
+poor gross motor coordination	hsa-mir-21
+thoracolumbar kyphosis	hsa-mir-21
+streak ovary	hsa-mir-21
+increased circulating iga level	hsa-mir-598
+spinal hemangioblastoma	hsa-mir-598
+breast aplasia	hsa-mir-611
+abnormal intestine morphology	hsa-mir-611
+anterior plagiocephaly	hsa-mir-140
+pelvic bone exostoses	hsa-mir-140
+arrhinencephaly	hsa-mir-510
+uterus didelphys	hsa-mir-510
+neoplasm of the breast	hsa-mir-510
+dentinogenesis imperfecta	hsa-mir-223
+ragged-red muscle fibers	hsa-mir-223
+neoplasm of the adrenal cortex	hsa-mir-128b
+hypoplastic spinal processes	hsa-mir-128b
+increased circulating iga level	hsa-mir-454
+spinal hemangioblastoma	hsa-mir-454
+wide nose	hsa-mir-660
+platelet anisocytosis	hsa-mir-660
+neoplasm of the adrenal cortex	hsa-mir-520h
+hypoplastic spinal processes	hsa-mir-520h
+decreased taste sensation	hsa-mir-132
+increased circulating igg level	hsa-mir-132
+hemimegalencephaly	hsa-mir-137
+orthostatic hypotension	hsa-mir-137
+hyperactive patellar reflex	hsa-mir-106a
+receptive language delay	hsa-mir-106a
+exercise-induced muscle stiffness	hsa-mir-106a

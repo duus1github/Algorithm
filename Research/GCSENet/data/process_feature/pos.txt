@@ -1,0 +1,199 @@
+abnormal cortical bone morphology	hsa-let-7f
+abnormal eye morphology	hsa-let-7f
+abnormal joint morphology	hsa-let-7f
+abnormality of body height	hsa-let-7f
+abnormality of brain morphology	hsa-let-7f
+abnormality of finger	hsa-let-7f
+abnormality of long bone morphology	hsa-let-7f
+abnormality of metabolism/homeostasis	hsa-let-7f
+abnormality of movement	hsa-let-7f
+abnormality of pelvic girdle bone morphology	hsa-let-7f
+abnormality of the ankles	hsa-let-7f
+abnormality of the bladder	hsa-let-7f
+abnormality of the cardiovascular system	hsa-let-7f
+abnormality of the cerebellar vermis	hsa-let-7f
+abnormality of the cerebral vasculature	hsa-let-7f
+abnormality of the cerebrum	hsa-let-7f
+abnormality of the eye	hsa-let-7f
+abnormality of the genitourinary system	hsa-let-7f
+abnormality of the hand	hsa-let-7f
+abnormality of the head	hsa-let-7f
+abnormality of the face	hsa-let-7i
+abnormality of the foot	hsa-let-7i
+abnormality of the gastrointestinal tract	hsa-let-7i
+abnormality of the genital system	hsa-let-7i
+abnormality of the genitourinary system	hsa-let-7i
+abnormality of the hand	hsa-let-7i
+abnormality of the head	hsa-let-7i
+abnormality of the hip bone	hsa-let-7i
+abnormality of the hypothalamus-pituitary axis	hsa-let-7i
+abnormality of the immune system	hsa-let-7i
+abnormality of the kidney	hsa-let-7i
+abnormality of the liver	hsa-let-7i
+abnormality of the lower limb	hsa-let-7i
+abnormality of the mandible	hsa-let-7i
+abnormality of the nervous system	hsa-let-7i
+abnormality of the nose	hsa-let-7i
+abnormality of the orbital region	hsa-let-7i
+abnormality of the outer ear	hsa-let-7i
+abnormality of the palpebral fissures	hsa-let-7i
+abnormality of the penis	hsa-let-7i
+abnormality of the preputium	hsa-let-7i
+abnormality of the philtrum	hsa-let-7a
+abnormality of the pinna	hsa-let-7a
+abnormality of the pleura	hsa-let-7a
+abnormality of the pulmonary artery	hsa-let-7a
+abnormality of the radius	hsa-let-7a
+abnormality of the respiratory system	hsa-let-7a
+abnormality of the rib cage	hsa-let-7a
+abnormality of the skeletal system	hsa-let-7a
+abnormality of the skin	hsa-let-7a
+abnormality of the spinal cord	hsa-let-7a
+abnormality of the spleen	hsa-let-7a
+abnormality of the sternum	hsa-let-7a
+abnormality of the stomach	hsa-let-7a
+abnormality of the thorax	hsa-let-7a
+abnormality of the thyroid gland	hsa-let-7a
+abnormality of the tongue	hsa-let-7a
+abnormality of the ulna	hsa-let-7a
+abnormality of the urinary system	hsa-let-7a
+abnormality of the uterus	hsa-let-7a
+abnormality of the vasculature	hsa-let-7a
+abnormality of the vertebral column	hsa-let-7a
+abnormality of toe	hsa-mir-106a
+abnormality of vision	hsa-mir-106a
+absent thumb	hsa-mir-106a
+acanthosis nigricans	hsa-mir-106a
+adenoma sebaceum	hsa-mir-106a
+adult onset	hsa-mir-106a
+amblyopia	hsa-mir-106a
+anal atresia	hsa-mir-106a
+anemia	hsa-mir-106a
+angiofibromas	hsa-mir-106a
+anorectal anomaly	hsa-mir-106a
+anteverted nares	hsa-mir-106a
+aplasia/hypoplasia of fingers	hsa-mir-106a
+aplasia/hypoplasia of the cerebellum	hsa-mir-106a
+aplasia/hypoplasia of the extremities	hsa-mir-106a
+aplasia/hypoplasia of the mandible	hsa-mir-106a
+aplasia/hypoplasia of the thumb	hsa-mir-106a
+aqueductal stenosis	hsa-mir-106a
+arterial stenosis	hsa-mir-106a
+arteriovenous malformation	hsa-mir-106a
+asymmetric growth	hsa-mir-106a
+atherosclerosis	hsa-mir-106a
+atypical nevi in non-sun exposed areas	hsa-mir-106a
+autism	hsa-mir-106a
+autistic behavior	hsa-mir-106a
+autoimmunity	hsa-mir-106a
+autosomal dominant inheritance	hsa-mir-106a
+autosomal recessive inheritance	hsa-mir-106a
+behavioral abnormality	hsa-mir-106a
+benign neoplasm of the central nervous system	hsa-mir-106a
+biparietal narrowing	hsa-mir-106a
+bladder carcinoma	hsa-mir-106a
+bone cyst	hsa-mir-106a
+bowel diverticulosis	hsa-mir-106a
+breast carcinoma	hsa-mir-106a
+broad forehead	hsa-mir-106a
+nausea and vomiting	hsa-mir-106b
+neoplasm	hsa-mir-106b
+neoplasm of the adrenal cortex	hsa-mir-106b
+neoplasm of the breast	hsa-mir-106b
+neoplasm of the central nervous system	hsa-mir-106b
+neoplasm of the nervous system	hsa-mir-106b
+neoplasm of the skeletal system	hsa-mir-106b
+neoplasm of the skin	hsa-mir-106b
+neoplasm of the thyroid gland	hsa-mir-106b
+neurodevelopmental delay	hsa-mir-106b
+neurological speech impairment	hsa-mir-106b
+nevus	hsa-mir-106b
+numerous nevi	hsa-mir-106b
+obesity	hsa-mir-106b
+onset	hsa-mir-106b
+optic atrophy	hsa-mir-106b
+ovarian cyst	hsa-mir-106b
+ovarian neoplasm	hsa-mir-106b
+palmoplantar hyperkeratosis	hsa-mir-106b
+palmoplantar keratoderma	hsa-mir-106b
+papilloma	hsa-mir-106b
+skeletal dysplasia	hsa-let-7c
+slender finger	hsa-let-7c
+soft skin	hsa-let-7c
+somatic mutation	hsa-let-7c
+strabismus	hsa-let-7c
+striae distensae	hsa-let-7c
+sudden cardiac death	hsa-let-7c
+synophrys	hsa-let-7c
+syringomyelia	hsa-let-7c
+talipes	hsa-let-7c
+talipes equinovarus	hsa-let-7c
+tall stature	hsa-let-7c
+thick eyebrow	hsa-let-7c
+thin skin	hsa-let-7c
+thin vermilion border	hsa-let-7c
+thoracic aortic aneurysm	hsa-let-7c
+tremor	hsa-let-7c
+triangular face	hsa-let-7c
+uterine leiomyoma	hsa-let-7c
+uterine neoplasm	hsa-let-7c
+uterine rupture	hsa-let-7c
+limb undergrowth	hsa-let-7e
+limitation of joint mobility	hsa-let-7e
+long philtrum	hsa-let-7e
+low anterior hairline	hsa-let-7e
+low posterior hairline	hsa-let-7e
+low-set ears	hsa-let-7e
+low-set, posteriorly rotated ears	hsa-let-7e
+macrotia	hsa-let-7e
+microcephaly	hsa-let-7e
+microcornea	hsa-let-7e
+micrognathia	hsa-let-7e
+micromelia	hsa-let-7e
+multicystic kidney dysplasia	hsa-let-7e
+muscular hypotonia	hsa-let-7e
+myopia	hsa-let-7e
+neoplasm	hsa-let-7e
+neurodevelopmental delay	hsa-let-7e
+neurological speech impairment	hsa-let-7e
+nystagmus	hsa-let-7e
+obesity	hsa-let-7e
+obsessive-compulsive behavior	hsa-let-7e
+neoplasm	hsa-let-7b
+neurological speech impairment	hsa-let-7b
+prominent nasal bridge	hsa-let-7b
+radial deviation of finger	hsa-let-7b
+reduced number of teeth	hsa-let-7b
+renal hypoplasia/aplasia	hsa-let-7b
+sarcoma	hsa-let-7b
+scoliosis	hsa-let-7b
+short stature	hsa-let-7b
+skeletal dysplasia	hsa-let-7b
+thick eyebrow	hsa-let-7b
+thin vermilion border	hsa-let-7b
+tremor	hsa-let-7b
+triangular face	hsa-let-7b
+uterine leiomyoma	hsa-let-7b
+uterine neoplasm	hsa-let-7b
+weight loss	hsa-let-7b
+euthyroid multinodular goiter	hsa-let-7d
+goiter	hsa-let-7d
+malignant neoplasm of the central nervous system	hsa-let-7d
+medulloblastoma	hsa-let-7d
+neoplasm	hsa-let-7d
+neoplasm of the central nervous system	hsa-let-7d
+neoplasm of the lung	hsa-let-7d
+neoplasm of the nervous system	hsa-let-7d
+neoplasm of the thyroid gland	hsa-let-7d
+papillary thyroid carcinoma	hsa-let-7d
+pleuropulmonary blastoma	hsa-let-7d
+rhabdomyosarcoma	hsa-let-7d
+sarcoma	hsa-let-7d
+thyroid carcinoma	hsa-let-7d
+syringomyelia	hsa-let-7g
+thick eyebrow	hsa-let-7g
+thin vermilion border	hsa-let-7g
+tremor	hsa-let-7g
+triangular face	hsa-let-7g
+uterine leiomyoma	hsa-let-7g
+uterine neoplasm	hsa-let-7g
